@@ -1,6 +1,9 @@
 #include <iostream>
 #include<cstdlib>
 #include<fstream>
+
+
+##include "stdio.h"
 using namespace std;
 class clientes
 {
